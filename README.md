@@ -4,7 +4,7 @@ An example Android sensing application together with some feature computation co
 
 ## Prerequisites
 
-1. Make sure you have the Android SDK installed, and particularly API level 19 and the newest build tools. If you haven't, get [Android Studio]{http://developer.android.com/sdk/installing/studio.html} (which includes the SDK) or [just the Android SDK]{https://developer.android.com/sdk/index.html}.
+1. Make sure you have the Android SDK installed, and particularly API level 19 and the newest build tools. If you haven't, get [Android Studio](http://developer.android.com/sdk/installing/studio.html) (which includes the SDK) or [just the Android SDK](https://developer.android.com/sdk/index.html).
 
 ## How to use
 
