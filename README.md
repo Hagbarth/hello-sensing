@@ -21,7 +21,7 @@ The file looks like this on my machine (Mac OS X):
 
     sdk.dir=/Applications/Android Studio.app/sdk
 
-## Questions? Comments?
+## Questions? Comments? (aka HEEEEEEEELP!!!!1111)
 
 For questions and comments, please post on the webboard: https://services.brics.dk/java/courseadmin/CAC13/webboard/forum?forum=702 . If you believe you've found a bug or want a certain feature, feel free to open an issue here on GitHub: https://github.com/ubi-cs-au-dk/hello-sensing/issues .
 
