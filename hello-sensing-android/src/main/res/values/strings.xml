@@ -3,5 +3,7 @@
 
     <string name="app_name">Hello Sensing</string>
     <string name="title_activity_main">Hello Sensing</string>
+    <string name="start">Start sensing</string>
+    <string name="stop">Stop sensing</string>
 
 </resources>
