@@ -1,1 +1,3 @@
+include ':hello-sensing-model'
 include ':hello-sensing-android'
+include ':hello-sensing-ml'
