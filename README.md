@@ -25,6 +25,8 @@ The file looks like this on my machine (Mac OS X):
 
 For questions and comments, please post on the webboard: https://services.brics.dk/java/courseadmin/CAC13/webboard/forum?forum=702 . If you believe you've found a bug or want a certain feature, feel free to open an issue here on GitHub: https://github.com/ubi-cs-au-dk/hello-sensing/issues .
 
+OR: You could fork the project, fix the problem and/or add the feature yourself, and make a pull request if your change is usable by others. :)
+
 ## Does santa exist?
 
 No.
